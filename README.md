@@ -2,6 +2,7 @@
 
 |Название проекта                             |Описание                                  |Использованные библиотеки   |
 |:-------------------------------------------:|:-----------------------------------------|:--------------------------:|
+|[Проверка гипотез для увеличения выручки интернет-магазина](https://github.com/KokaNatalya/AB-test-about-increasing-revenue-of-an-online-store.git)| Приоритизация гипотез, и  анализ результатов А/В теста, проверка статистической значимости гипотезы для принятия решения о внедрении фичей|pandas, seaborn, matplotlib, numpy, scipy, datetime, warnings|
 |[Маркетинговое исследование для Яндекс.Афиши](https://github.com/KokaNatalya/Marketing-research-for-Yandex.Afisha.git)|Оперделение невыгодных источников трафика для перераспределения рекламного бюджета.| pandas, matplotlib.pyplot, seaborn, plotly.express, numpy, datetime|
 |[Парсинг сайта](https://github.com/KokaNatalya/parsing_example.git)|Cоздание таблицы с данными о товарах интернет-магазина, представленными на сайте.|BeautifulSoup, requests, pandas, re, urllib.parse|
 |[Исследование по определению закономерностей влияющих на популярность компьютерных игр](https://github.com/KokaNatalya/Determining-the-factors-that-influence-the-popularity-of-computer-games.git)|Необходимо выявить закономерности определяющие успешность игры. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.| pandas, pandas_profiling, warnings, seaborn, matplotlib, numpy, statsmodels, scipy (scipy.stats).|
