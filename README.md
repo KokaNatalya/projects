@@ -2,7 +2,8 @@
 
 |Название проекта                             |Описание                                  |Использованные библиотеки   |
 |:-------------------------------------------:|:-----------------------------------------|:--------------------------:|
-|[Demand forecasting (time series forecasting)](https://github.com/KokaNatalya/time_series)|ML models for forecasting sales by aggregated product groups.(Initiative project during internship)|pandas, numpy, sklearn, scipy, matplotlib.pyplot, statsmodels, statsmodels.api, pmdarima|
+|[RecSys](https://github.com/KokaNatalya/RecSys)|Рекомендательная система фильмов, для соревнования RecSys Course Competition от МТС на Open Data Science|pandas, numpy, keras, tensorflow, sklearn|
+|[Demand forecasting (time series forecasting)](https://github.com/KokaNatalya/time_series)|ML models for forecasting sales by aggregated product groups.(Diploma project)|pandas, numpy, sklearn, scipy, matplotlib.pyplot, statsmodels, statsmodels.api, pmdarima|
 |[Predicting the similar actor](https://github.com/KokaNatalya/Predicting-the-similar-actor)|The model gets your photo, the neural network identifies your gender and the logistic regression finds the most similar actor to you|tensorflow, face_recognition, keras, sklearn, pandas, numpy, simple_image_download, matplotlib.pyplot, os, glob, PIL|
 |[Promo sales prediction project](https://github.com/KokaNatalya/ML-models-of-promo-uplift-prediction)|Models predict promo sales basing on group of factors. (Initiative project during internship)|pandas, datetime, seaborn, matplotlib.pyplot, numpy, scipy, sklearn (svm, model_selection, linear_model, metrics, neighbors, ensemble, tree)|
 |[Парсинг сайта](https://github.com/KokaNatalya/parsing_example.git)|Cоздание таблицы с данными о товарах интернет-магазина, представленными на сайте.|BeautifulSoup, requests, pandas, re, urllib.parse|
